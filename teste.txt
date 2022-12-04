@@ -1,0 +1,18 @@
+
+
+    1.- Definir el tamaño de la matriz (n*n)
+    2.- Pedir datos al usuario para crear la matriz
+    3.- Definir la validez de los datos (solo numeros enteros)
+    4.- Guardar los datos ingresados en una lista (matriz)
+    5.- Calculo del determinante |A| --> Si |A| == 0, no se continua con el calculo
+    6.- Calcular el traspuesto de la matriz principal
+    7.- Calcular el inverso de la matriz --> A^-1
+    
+    A^-1 = (adj(A^t)) / |A|
+    
+    Ejemplo Matriz 3x3:
+    matriz = ([
+    [1,2,3],
+    [4,5,6],
+    [7,8,9]
+    ])
